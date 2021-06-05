@@ -1,8 +1,8 @@
 # Sales app made by using flutter SDK(Private Repo). 
 
 <p>
-The app monitor th efined metrics of each sales employee and there day to day target.
-The iea was to gather data for the raise in salary of employee and monitor our sale per day.
+The app monitor the defined metrics of each sales employee and there day to day target.
+The idea was to gather data for the raise in salary of each employee according to there past performance and monitor organization's sale per day.
 </P>
 
 
